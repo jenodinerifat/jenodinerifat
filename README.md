@@ -34,7 +34,4 @@ A simple calculator application built with JavaScript and HTML. It's a practical
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jenodinerifat&show_icons=true&hide=contribs,prs)
 
-## Let's Connect
-- [jenodinerifat.me)
-
 Feel free to explore my repositories and provide feedback. Happy coding! 🚀
