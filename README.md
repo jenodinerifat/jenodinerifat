@@ -32,7 +32,7 @@ A clean and responsive portfolio website created using HTML, CSS, and JavaScript
 A simple calculator application built with JavaScript and HTML. It's a practical project to demonstrate basic web development skills and interactive user interfaces
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jenodinerifat&show_icons=true&hide=contribs,prs)
 
 ## Let's Connect
 - [jenodinerifat.me)
